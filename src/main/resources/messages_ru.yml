@@ -1,0 +1,27 @@
+error:
+  player-only: "&cЭта команда только для игроков."
+  no-permission: "&cУ вас нет права &4%permission%."
+  kulichi-banned: "&cКуличи были заблокированы на этом сервере."
+  cannot-break: "&cВы не можете сломать этот блок!"
+  force-ban-active: "&4Ошибка! &cНевозможно изменить состояние куличей! Включен force ban."
+get-kulichi:
+  success: "&aЙоу йоу йоу, держи куличи!"
+ban:
+  toggled: "&aКуличи были %status%."
+  broadcast-banned: "&e[Ban] &cИгрок %player% заблокировал разброс куличей на сервере!"
+  broadcast-unbanned: "&e[Ban] &aИгрок %player% разблокировал разброс куличей на сервере!"
+force-ban:
+  toggled: "&cForce Ban - Куличи были %status% (Обновляется при перезапуске сервера)."
+  broadcast-enabled: "&a[FBan] &9Игрок %player% &bвключил &9все куличи на сервере!"
+  broadcast-disabled: "&a[FBan] &cИгрок %player% &4выключил &cвсе куличи на сервере!\n&7[KulichiAPI] &aПросьба хранить куличи в инвентаре и не выкидывать их!!!!"
+chlen:
+  no-space: "&cНевозможно поставить член! Мало места!"
+  no-ground: "&cНельзя ставить члены в воздухе!"
+  cooldown: "&aПодождите %time% сек. перед использованием команды!"
+status:
+  enabled: "включены"
+  disabled: "отключены"
+  banned: "забанены :(("
+  unbanned: "разбанены *yay*"
+item:
+  kulich-name: "Кулич"

@@ -1,0 +1,27 @@
+error:
+  player-only: "&cThis command can only be used by players."
+  no-permission: "&cYou do not have permission &4%permission%."
+  kulichi-banned: "&cKulichi are banned on this server."
+  cannot-break: "&cYou cannot break this block!"
+  force-ban-active: "&4Error! &cCannot change kulichi state! Force ban is active."
+get-kulichi:
+  success: "&aYo yo yo, here are your kulichi!"
+ban:
+  toggled: "&aKulichi have been %status%."
+  broadcast-banned: "&e[Ban] &cPlayer %player% has banned kulichi scattering on the server!"
+  broadcast-unbanned: "&e[Ban] &aPlayer %player% has unbanned kulichi scattering on the server!"
+force-ban:
+  toggled: "&cForce Ban - Kulichi have been %status% (Updates on server restart)."
+  broadcast-enabled: "&a[FBan] &9Player %player% &bhas enabled &9all kulichi on the server!"
+  broadcast-disabled: "&a[FBan] &cPlayer %player% &4has disabled &call kulichi on the server!\n&7[KulichiAPI] &aPlease keep kulichi in your inventory and do not drop them!!!!"
+chlen:
+  no-space: "&cCannot place structure! Not enough space!"
+  no-ground: "&cCannot place structure in the air!"
+  cooldown: "&aPlease wait %time% seconds before using this command again!"
+status:
+  enabled: "enabled"
+  disabled: "disabled"
+  banned: "banned :(("
+  unbanned: "unbanned *yay*"
+item:
+  kulich-name: "Kulich"
