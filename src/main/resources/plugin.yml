@@ -1,8 +1,8 @@
 name: KulichiAPI
-version: '2.0'
+version: '2.1'
 main: fun.aqurik.KulichiAPI.KulichiAPI
 api-version: '1.21'
-authors: [Aqurik13]
+authors: [Aqurik13, denfry]
 description: Kulichi & More
 website: https://aqurik.fun
 commands:
@@ -11,7 +11,7 @@ commands:
       - getkulich
       - getmorekulich
       - daikulich
-    description: Выдает куличи
+    description: Gives kulichi to players
     permission: KulichiAPI.getKulichi
   bankulichi:
     aliases:
@@ -19,9 +19,9 @@ commands:
       - kulichiban
       - block-kulichi
     permission: KulichiAPI.banKulichi
-    description: Забанить куличи
+    description: Bans or unbans kulichi
   fban:
-    description: Насильно заблокироват куличи
+    description: Forcefully bans or unbans kulichi
     aliases:
       - forceban
     permission: KulichiAPI.fban
@@ -30,8 +30,5 @@ commands:
       - penis
       - pipirka
     permission: KulichiAPI.chlen.use
-    description: "член"
+    description: Creates a temporary structure
     usage: "Usage: /chlen"
-
-
-

@@ -1,5 +1,8 @@
-/home/aqurik/Документы/KulichiAPI/src/main/java/fun/aqurik/KulichiAPI/KulichiAPI.java
-/home/aqurik/Документы/KulichiAPI/src/main/java/fun/aqurik/KulichiAPI/ban.java
-/home/aqurik/Документы/KulichiAPI/src/main/java/fun/aqurik/KulichiAPI/chlen.java
-/home/aqurik/Документы/KulichiAPI/src/main/java/fun/aqurik/KulichiAPI/getKulichi.java
-/home/aqurik/Документы/KulichiAPI/src/main/java/fun/aqurik/KulichiAPI/unfun.java
+D:\ideaprj\KulichiAPI2\src\main\java\fun\aqurik\KulichiAPI\BanKulichiCommand.java
+D:\ideaprj\KulichiAPI2\src\main\java\fun\aqurik\KulichiAPI\ChlenCommand.java
+D:\ideaprj\KulichiAPI2\src\main\java\fun\aqurik\KulichiAPI\ForceBanCommand.java
+D:\ideaprj\KulichiAPI2\src\main\java\fun\aqurik\KulichiAPI\GetKulichiCommand.java
+D:\ideaprj\KulichiAPI2\src\main\java\fun\aqurik\KulichiAPI\KulichiAPI.java
+D:\ideaprj\KulichiAPI2\src\main\java\fun\aqurik\KulichiAPI\KulichiTabCompleter.java
+D:\ideaprj\KulichiAPI2\src\main\java\fun\aqurik\KulichiAPI\LogManager.java
+D:\ideaprj\KulichiAPI2\src\main\java\fun\aqurik\KulichiAPI\MessageManager.java
