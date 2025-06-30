@@ -1,9 +1,0 @@
-# Configuration for KulichiAPI
-isKulichiBanned: false
-language: en  # Supported languages: en, ru
-logging:
-  enabled: true
-kulichi:
-  amount: 10
-chlen:
-  cooldown: 600
